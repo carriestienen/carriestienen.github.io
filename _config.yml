@@ -32,13 +32,13 @@ linkedin_username: carrie-stienen-53533449
 # Additional icon links
 additional_links:
 - title: TikTok
-  icon: fa-brands fa-tiktok
+  icon: fab fa-tiktok
   url: https://www.tiktok.com/@codingwithcarrie
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
 - title: Twitch
-  icon: fa-brands fa-twitch
+  icon: fab fa-twitch
   url: https://www.twitch.tv/carrie_greenbow
 
 # Google Analytics and Tag Manager
