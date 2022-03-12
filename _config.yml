@@ -41,7 +41,7 @@ additional_links:
   icon: fab fa-twitch
   url: https://www.twitch.tv/carrie_greenbow
 - title: Duolingo
-  icon: fas fa-globe-stand
+  icon: fas fa-language
   url: https://www.duolingo.com/profile/Cstienen
 - title: Medium
   icon: fab fa-medium
