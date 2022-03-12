@@ -40,6 +40,12 @@ additional_links:
 - title: Twitch
   icon: fab fa-twitch
   url: https://www.twitch.tv/carrie_greenbow
+- title: Duolingo
+  icon: fas fa-globe-stand
+  url: https://www.duolingo.com/profile/Cstienen
+- title: Medium
+  icon: fab fa-medium
+  url: https://carriestienen.medium.com/
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
