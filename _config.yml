@@ -77,9 +77,11 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          An app that evaluates Japanese language text and determines its politeness level: casual, polite, honorofic, or humble.
+          An app that evaluates Japanese language text and determines its politeness level: casual, polite, honorific, or humble.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way of learning NLP principles. It taught me how to perform word vectorization in different languages and recognize symantic patterns. 
+          I started this project as a way of learning NLP principles. It taught me how to perform word vectorization in different languages and recognize symantic patterns.
+        application: |
+          When to use humble, honorific, or polite language can be a challenge for new Japanese learners who speak English as a first language. It's often difficult to differentiate between them. This code can help make those distinctions and, with context clues, reveal when it's appropriate to use what type of language.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -91,9 +93,9 @@ content:
         sub_title: Japanese NLP Analyst
         caption: August 2021 - December 2021
         quote: >
-          TrustYou is a hotel reputation management software platform
+          TrustYou is a hotel reputation management software platform. 
         description: | # this will include new lines to allow paragraphs
-            Wrote language processing code that analyses sentiment. Evaluated customer reviews in Japanese. Developed Context-Free Grammars for an NLP pipeline.
+            Developed language processing code that analyses sentiment. This code was used to aggregate guest feedback into a software dashboard so that hotel management could comprehend guest satisfaction instantly. Evaluated customer reviews in Japanese in order to expand review corpora and make sure our NLP model was properly fit to the dataset. Developed Context-Free Grammars for an NLP pipeline using python and NLTK.
 
       - layout: left
         title: American Medical Association
@@ -104,7 +106,8 @@ content:
         quote: >
           AMA is the largest association of physicians and medical students in the United States
         description: | # this will include new lines to allow paragraphs
-            Developed data visualizations in Tableau and PowerBI. Implemented web scraping and data triangulation using Python. Data modification using Pandas, Numpy. Data modeling in ScikitLearn. Wrote data analysis reports in Jupyter Notebook. Database management in SQL.
+            Developed data visualizations in Tableau and PowerBI for sales and marketing teams to view results of past campaigns. Implemented web scraping and data triangulation using Python. Data modification using Pandas, Numpy. Data modeling in ScikitLearn. Wrote data analysis reports in Jupyter Notebook. Database management in SQL.
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
