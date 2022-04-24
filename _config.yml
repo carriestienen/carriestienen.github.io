@@ -119,7 +119,7 @@ content:
         quote: >
           Established in 1898, DePaul University, the largest Catholic university in the United States, offers academically excellent, flexible, practical programs of study in a student-focused learning environment. DePaul is the 13th-largest private, not-for-profit university in the nation.
         description: | # this will include new lines to allow paragraphs
-          I attended DePaul University at first in person and then moved online after the start of the COVID-19 pandemic. I took several classes, including classes in data science, analysis, machine learning, data visualization, and data mining.
+          I attended DePaul University at first in person and then moved online after the start of the COVID-19 pandemic.
         coursework: |
           Courses include machine learning, data visualization, data mining, big data, and neural networks.
 
