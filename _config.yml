@@ -120,6 +120,8 @@ content:
           Established in 1898, DePaul University, the largest Catholic university in the United States, offers academically excellent, flexible, practical programs of study in a student-focused learning environment. DePaul is the 13th-largest private, not-for-profit university in the nation.
         description: | # this will include new lines to allow paragraphs
           I attended DePaul University at first in person and then moved online after the start of the COVID-19 pandemic. I took several classes, including classes in data science, analysis, machine learning, data visualization, and data mining.
+        coursework: |
+          Courses include machine learning, data visualization, data mining, big data, and neural networks.
 
       - layout: left
         title: University of Wisconsin-Madison
@@ -129,6 +131,8 @@ content:
           Since its founding in 1848, the UW-Madison campus has been a catalyst for the extraordinary. As a public land-grant university and prolific research institution, its students, staff, and faculty members partake in a world-class education and solve real-world problems.
         description: | # this will include new lines to allow paragraphs
           I received my Bachelor's degree from UW-Madison in 2013. I double majored in Mathematics and Computer Science, and took part in the International Internship Program where I worked abroad in Nara, Japan for a semester.
+        coursework: |
+          Courses include algorithms, number theory, combinatorics, compilers, and operating systems.
 
   - title: A Little More About Me
     layout: text
