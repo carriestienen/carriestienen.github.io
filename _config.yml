@@ -80,7 +80,7 @@ content:
           An app that evaluates Japanese language text and determines its politeness level: casual, polite, honorific, or humble.
         description: | # this will include new lines to allow paragraphs
           I started this project as a way of learning NLP principles. It taught me how to perform word vectorization in different languages and recognize symantic patterns.
-        application: |
+        
           When to use humble, honorific, or polite language can be a challenge for new Japanese learners who speak English as a first language. It's often difficult to differentiate between them. This code can help make those distinctions and, with context clues, reveal when it's appropriate to use what type of language.
 
   - title: Experience # Title for the section
