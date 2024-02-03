@@ -46,6 +46,9 @@ additional_links:
 - title: Medium
   icon: fab fa-medium
   url: https://carriestienen.medium.com/
+- title: Kaggle
+  icon: fab fa-kaggle
+  url: https://www.kaggle.com/carriestienen
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
